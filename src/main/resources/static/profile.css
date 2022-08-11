@@ -1,0 +1,13 @@
+/* 상단 네비바 프로필 크기관련 */
+.topbar-profile-photo{
+    width: 1.5em;
+    height: 1.5em;
+    position: relative;
+}
+
+/* 수정할 프로필 사진 크기 관련 */
+.profile-profile-photo {
+    width: 140px;
+    height: 140px;
+    position: relative;
+}

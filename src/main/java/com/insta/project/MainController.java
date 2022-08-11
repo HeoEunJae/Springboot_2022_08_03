@@ -24,6 +24,12 @@ public class MainController {
     public String story(){
         return "story";
     }
+
+    @GetMapping("/profile")
+//    @ResponseBody
+    public String profile(){
+        return "profile";
+    }
 }
 
 
