@@ -9,27 +9,26 @@ public class MainController {
 
     @GetMapping("/login")
 //    @ResponseBody
-    public String loginForm(){
+    public String loginForm() {
         return "login";
     }
 
     @GetMapping("/signup")
 //    @ResponseBody
-    public String signForm(){
+    public String signForm() {
         return "signup";
     }
 
     @GetMapping("/story")
 //    @ResponseBody
-    public String story(){
+    public String story() {
         return "story";
     }
 
     @GetMapping("/profile")
 //    @ResponseBody
-    public String profile(){
+    public String profile() {
         return "profile";
     }
+
 }
-
-
