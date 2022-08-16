@@ -12,7 +12,9 @@
     position: relative;
 }
 .line_set{
-    margin-left: 390px;
+    margin-right: 115px;
+    display: flex;
+    justify-content: end;
 }
 
 .txtbox{
