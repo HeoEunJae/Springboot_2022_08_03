@@ -21,3 +21,10 @@
     margin-left: 25px;
     width:400px;
 }
+
+.txtsize{
+    font-size: 13px;
+    font-weight: bold;
+    color: #808080;
+    width: 400px;
+}
